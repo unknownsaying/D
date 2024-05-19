@@ -13,8 +13,6 @@ void inline(){
     exp(ww + e) 
     exp(wx - g)
     return returnnnn
-    }
-void enum(){
     log(ww + wx * e) 
     log(wx * e + ww)
     return returnnnnn
