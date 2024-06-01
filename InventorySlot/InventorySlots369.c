@@ -1,10 +1,4 @@
 #ifdef InventorySlots369
-#include "../A/abcdefg.c"
-#include "../function/functionc.c"
-#include "../Header/efgh.h"
-#include "../Header/xyzt.h"
-#include "../tt/tt.c"
-#include "../tt/t123456789t.c"
 void InventorySlots(){
      int x2,y2,z2
      do x1 * y1 * z1
