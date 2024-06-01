@@ -1,4 +1,8 @@
-#define A3 7
-#define B3 8
-#define C3 0
-#define D3 9
+#define A 7
+#define B 8
+#define C 0
+#define D 9
+struct C(){
+  typedef()
+  typeof(
+}
