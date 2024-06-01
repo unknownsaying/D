@@ -1,7 +1,3 @@
-#include "rst369.c"
-#include "rstt84.c"
-#include "trs84.c"
-#include "trst369+84.c"
 #define rst R
 #define rust RR
 #define rstt RRR
