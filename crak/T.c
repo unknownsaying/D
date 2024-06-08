@@ -1,6 +1,4 @@
 #if T
-#include "S.ts"
-#include "S.c"
 #define J 1 kg*m*m/s*s
 #define k  0.000000000000000013806485279 J/k
 #define h 0.0000000000000000000000000662607015 J*s
