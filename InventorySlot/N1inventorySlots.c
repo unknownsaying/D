@@ -1,4 +1,3 @@
-#include "../Header/efgh.h"
 #include "../tt/tt.c"
 void N1InventorySlots(){
 signed long int t1t2 = t1 * t2
