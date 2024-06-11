@@ -2,3 +2,7 @@
 #define B 0
 #define C 5
 #define D 6
+struct B(){
+  typedef()
+  typeof(
+}
