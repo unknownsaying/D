@@ -5,7 +5,7 @@
 #define tkji [t1][k][j][i]
 #define toqp [t2][o][q][p]
 #define tnml [t3][n][m][l]
-void rst369(){
+void rst123(){
     struct tkji(){
         double i
         float j
