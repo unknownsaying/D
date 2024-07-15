@@ -2,7 +2,7 @@
 #define rust RR
 #define rstt RRR
 #define wwww for(rst;rust;rstt)
-    void t9t10() {
+void t9t10() {
         void t9() {
             int32_t(w - t10)
             int64_t(ww + RRR)
