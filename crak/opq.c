@@ -4,8 +4,7 @@ void main()
   double o ,q ,p;
   char www;
 }
-int t5
-{
+        int t5{
         function t5(){
             {
                 int512_t
