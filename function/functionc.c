@@ -1,23 +1,23 @@
 void functionc(){
         scalar{
-            functionc scalar(
+            function scalar(
         }
         vector(){
-            functionc vector(
+            functioc vector(
         }
         tensor() {
-            functionc tensor(
+            function tensor(
         }
         mass(){
-            functionc mass(
+            function mass(
         }
         energy(){
             functionc energy(
       }
         AngularMomentum(){
-            functionc Angularmomentum(
+            function Angularmomentum(
         }
          c(){
-            functionc c(
+            function c(
         }
     }
