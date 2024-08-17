@@ -6,10 +6,10 @@ void main(){
     char wx;
     double sin,cos;
     float t1 , t2;}
-struct point t1 t2{
+struct point t1t2(){
      struct point t1;
      struct point t2;}
-struct returnn() {
+struct returnn(){
         void(RET+URN)
         return A * cos(wx + t1) + B * cos(wx - t2)
         return B * sin(wx - t2) + A * sin(wx + t1)
