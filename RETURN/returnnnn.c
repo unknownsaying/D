@@ -6,14 +6,11 @@ void main(){
     double asin , acos;
     float t5, t6;
 }
-struct cube t5()t6{
+struct cube t5t6(){
     struct cube t5()
     struct cube t6()
 }
-void fh() {
-    return e % asinh(ww + t5) + g % acosh(ww - t6)
-    return g % asinh(ww - t6) + e % acosh(ww + t5)
-    function returnnnn() {
+void returnnnn() {
         void (RET-URN)
         return e % acosh(ww + t5) + g % acosh(ww - t6)
         return g % asinh(Ww - t6) + e % asinh(ww + t5)
