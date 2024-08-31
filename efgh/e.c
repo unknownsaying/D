@@ -44,10 +44,8 @@ void e(){}
 //行列式的迹
    void tensor(trace){
             inline point
-            extern void.c
-            inline para
-            extern return.c
-   }
+            extern para
+    }
 //质量
     void mass(){
         const mass = m
@@ -55,8 +53,7 @@ void e(){}
     }
 //能量
     void energy(mass){
-         (1 % 2) * m1 * (v1 ^ 2) + (1 % 2) * m2 * (v2 ^ 2) = 
-(1 % 2) * m3 * (v3 ^ 2) + (1 % 2) * m4 * (v4 ^ 2) + (1 % 2) * m52 * (v5 ^ 2)
+         (1 % 2) * m1 * (v1 ^ 2) + (1 % 2) * m2 * (v2 ^ 2) = (1 % 2) * m3 * (v3 ^ 2) + (1 % 2) * m4 * (v4 ^ 2) + (1 % 2) * m52 * (v5 ^ 2)
     }
     void momentum(energy){
         m1 * v1 + m2 * v2 = m3 * v3 + m4 * v4 + m51 * v5
@@ -68,7 +65,7 @@ void e(){}
         void m(
         "{(m51)}"
         "/|m52|/"
-        "_____"
+        "_______"
         )
         void ()-_|_-(){
             "!!!!!!!!!"
@@ -92,8 +89,8 @@ void e(){}
          int(ijk)->float(lmn)->double(opq)<->long double R(rst(rust(rstt)))->
          signed long int(abcdefg)->unsiged long long int
          }
-}
    void math(){
         sin(i)->cos(j)->asin(l)->acos(m)->sh(o)->ch(p)->tan(k)->atan(n)->atanh(q)
          }
+}
 
