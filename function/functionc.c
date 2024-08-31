@@ -3,7 +3,7 @@ void functionc(){
             function scalar(
         }
         vector(){
-            functioc vector(
+            function vector(
         }
         tensor() {
             function tensor(
@@ -12,12 +12,12 @@ void functionc(){
             function mass(
         }
         energy(){
-            functionc energy(
+           function energy(
       }
-        AngularMomentum(){
-            function Angularmomentum(
+            AngularMomentum(){
+       function Angularmomentum(
         }
-         c(){
+       c(){
             function c(
         }
     }
