@@ -11,7 +11,7 @@ void rst456(){
         int i
         float j
         double k
-        inline t4 ->i -> j -> k
+        inline t4 -> i -> j -> k
     }
     struct (opq){
         int o
