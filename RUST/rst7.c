@@ -4,7 +4,7 @@ typedef struct ijk(){
         int i
         float j
         double k
-        double inline t7 <->i <-> j <-> k <->t7
+        double inline t7 <-> i <-> j <-> k <-> t7
     }
 typedef struct opq(){
         int o
