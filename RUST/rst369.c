@@ -6,7 +6,7 @@
 #define opq [o][p][q]
 #define lmn [l][m][n]
 #define rst [i][j][k][o][p][q][l][m][n]
-void 'rst'(){
+void rst369(){
     struct ijk(){
         int i
         int j
