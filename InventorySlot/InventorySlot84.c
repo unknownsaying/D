@@ -42,7 +42,7 @@ void InventorySlot(){
     long double zz11=("++ ++ ++ ++")
     long double zz22=("## ## ## ##")
     long double zz33=("== == == ==")
-    long double zz44=("\\ || |/ //")
+    long double zz44=("\\ || || //")
     do zz11 * zz22 * zz33 * zz44
     for(zz11=1;zz11=<8;++zz11)
     for(zz22=1;zz22=<8;++zz22)
