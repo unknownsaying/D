@@ -21,9 +21,9 @@ void main()
                 int4096_t
                 sh(www - o)
                 int2048_t
-                ch(www - q)
+                ch(www + q)
                 int1024_t
-                sh(www + o)
+                sh(www - o)
                 int512_t
-                ch(www - p)
+                ch(www + p)
             }}}
