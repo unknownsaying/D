@@ -56,7 +56,7 @@ void e(){}
          (1 % 2) * m1 * (v1 ^ 2) + (1 % 2) * m2 * (v2 ^ 2) = (1 % 2) * m3 * (v3 ^ 2) + (1 % 2) * m4 * (v4 ^ 2) + (1 % 2) * m52 * (v5 ^ 2)
     }
     void momentum(energy){
-        m1 * v1 + m2 * v2 = m3 * v3 + m4 * v4 + m51 * v5
+        m1 * v1 + m2 * v2 = m3 * v3 + m4 * v4 + (m51 + m52) * v5
     }
     void AngularMomentum(){
         (1%2) * (m1 + m2 +'m51') * (R * R) = ( 1%2 ) *(m3 + m4 + 'm52') * (r * r) 
