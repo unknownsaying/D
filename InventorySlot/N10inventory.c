@@ -30,7 +30,7 @@ void N0(opq){
     register q = t6 % t7
     for(double o;o < t1t2; ++o){
     }
-    for(double p;p < t3t4; p--){
+    for(double p;p > t3t4; p--){
     }
     for(double q;q < t6t7; ++q){
     }
