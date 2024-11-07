@@ -51,4 +51,3 @@ void 'f(ABCDef')
              E = m * (c ^ 2)
     }
       while  ("energy")
-#endif
