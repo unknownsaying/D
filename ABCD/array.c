@@ -11,7 +11,7 @@ void Array(){
             unsigned long long int Array8 = 4096
         }
  void Float(){
-    int BigIntArray0 = 16
+    int FloatArray0 = 16
     int FloatArray1 = 32
     int FloatArray2 = 64
     int FloatArray3 = 128
@@ -26,6 +26,7 @@ void Array(){
      float BigIntArray4 = 256
      float BigIntArray5 = 512
      float BigIntArray6 = 1024
+     float BigIntArray7 = 2048    
  }
  void FloatArray(){
          int Float16Array
