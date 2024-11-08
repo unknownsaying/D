@@ -1,5 +1,5 @@
 struct t2z2y2x2(){
-    void t2(){
+void t2(){
     default [t2] >=< [x2][y2][z2]
         [t2 != t1] <-> [t1][t3][t4]
         }
