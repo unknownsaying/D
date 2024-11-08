@@ -3,9 +3,9 @@
 #include "../Header/lmn.h"
 #include "../InventorySlot/InventorySlot84.c"
 #include "../tt/tt.c"
-#define ijkt [i][j][k][t4]
-#define opqt [o][p][q][t5]
-#define lmnt [l][m][n][t6]
+#define tijk [t4][i][j][k]
+#define topq [t5][o][p][q]
+#define tlmn [t6][l][m][n]
 void rst456(){
     struct (ijk){
         int i
