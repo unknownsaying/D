@@ -1,5 +1,4 @@
 void Array(){
-        void Array(){
             short Array0 = 16
             int   Array1 = 32
             float Array2 = 64
@@ -45,4 +44,4 @@ void Array(){
          float BigInt512Array
          float BigInt1024Array
          float BigInt2048Array
- }}}
+ }
