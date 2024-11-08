@@ -12,7 +12,8 @@ void Slot(){
     for(z1=1;z1=<1;++z1)
     else if
        while(x1%y1%z1)
-   goto Slot
+    goto Slot
+        
     float x2,y2,z2,t2;
     do (x2 % y2 % z2) * t2
     float x2=("-- -- -- --")
@@ -25,12 +26,13 @@ void Slot(){
     for(z2=2;z2=<2;++z2)
         while(x2%y2%z2)
        goto Slot
+           
     double z1,z2,z3,z4
     do z1 / z2 / z3 / z4
-    double z1=("()() ()() ()() ()()")
-    double z2=("[][] [][] [][] [][]")
-    double z3=("{}{} {}{} {}{} {}{}")
-    double z4=("<><> <><> <><> <><>")
+    double z1=("<><> <><> <><> <><>")
+    double z2=("()() ()() ()() ()()")
+    double z3=("[][] [][] [][] [][]")
+    double z4=("{}{} {}{} {}{} {}{}")
     do  z1 * z2 * z3 * z4
     for(z1=0;z1=<4;++z1)
     for(z2=0;z2=<4;++z2)
@@ -38,6 +40,7 @@ void Slot(){
     for(z4=0;z4=<4;++z4)
        while(z1 % z2 % z3 % z4)
          goto Slot
+             
     do  zz11 / zz22 / zz33 / zz44
     long double zz1=("++ ++ ++ ++")
     long double zz2=("-- -- -- --")
