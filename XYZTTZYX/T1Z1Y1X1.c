@@ -19,6 +19,6 @@ void x1(){
     for(double o=-6;o>=1;o--)
         for(double  p=2;p>=-8;p--)
             for(double q=-7;q>=1;q--)
-            break
-                  } 
-}
+               break
+                      } 
+} 
