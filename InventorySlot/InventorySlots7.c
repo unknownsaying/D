@@ -1,4 +1,3 @@
-#ifdef InventorySlots369
 void InventorySlots(){
      int x2,y2,z2
      do x1 * y1 * z1
@@ -106,4 +105,3 @@ void InventorySlots() {
         goto InventorySlots
 }
 }
-#endif
