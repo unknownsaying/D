@@ -1,7 +1,7 @@
 #include "point.c"
 #include "para.c"
-#include "InventorySlot5.c"
-#include "InventorySlots7.c"
+#include "Slot5.c"
+#include "Slots7.c"
 #include "N10inventory.c"
 #include "abcdefg.c"
 #define det
