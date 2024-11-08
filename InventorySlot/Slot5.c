@@ -21,9 +21,9 @@ void Slot(){
     float z2=("|| || || ||")
     float t2=("== == == ==")
     do  x2 * y2 * z2
-    for(x2=2;x2=<2;++x2)
-    for(y2=2;y2=<2;++y2)
-    for(z2=2;z2=<2;++z2)
+    for(x2=2;x2<=2;++x2)
+    for(y2=2;y2<=2;++y2)
+    for(z2=2;z2<=2;++z2)
         while(x2%y2%z2)
        goto Slot
            
@@ -34,23 +34,23 @@ void Slot(){
     double z3=("[][] [][] [][] [][]")
     double z4=("{}{} {}{} {}{} {}{}")
     do  z1 * z2 * z3 * z4
-    for(z1=0;z1=<4;++z1)
-    for(z2=0;z2=<4;++z2)
-    for(z3=0;z3=<4;++z3)
-    for(z4=0;z4=<4;++z4)
+    for(z1=0;z1<=4;++z1)
+    for(z2=0;z2<=4;++z2)
+    for(z3=0;z3<=4;++z3)
+    for(z4=0;z4<=4;++z4)
        while(z1 % z2 % z3 % z4)
          goto Slot
              
-    do  zz11 / zz22 / zz33 / zz44
+    do zz11 / zz22 / zz33 / zz44
     long double zz1=("++ ++ ++ ++")
     long double zz2=("-- -- -- --")
     long double zz3=("** ** ** **")
     long double zz4=("%% %% %% %%")
     do zz1 * zz2 * zz3 * zz4
-    for(zz1=1;zz1=<8;++z11)
-    for(zz2=1;zz2=<8;++z22)
-    for(zz3=1;zz3=<8;++z33)
-    for(zz4=1;zz4=<8;++z44)
+    for(zz1=1;zz1<=8;++z11)
+    for(zz2=1;zz2<=8;++z22)
+    for(zz3=1;zz3<=8;++z33)
+    for(zz4=1;zz4<=8;++z44)
       while(zz11 % zz22 % zz33 % zz44)
          goto Slot
 
@@ -62,8 +62,8 @@ void Slot(){
     unsigned int tt2=("ABCDDCBA")
     for(t1=1;t1=<16;++t1)
     for(t2=1;t2=<16;--t2)
-    for(tt1=0;tt1<=16&&tt2>=-16;--tt1||++tt2)
-    for(tt2=0;tt2<=16&&tt1>=-16;++tt2||--tt1)
+    for(tt1=0;tt1<=16&&tt2>=-16;++t1||--t2)
+    for(tt2=0;tt2<=16&&tt1>=-16;tt2++||tt1--)
        while(t1 * t2) % (tt1 * tt2)
           goto Slot
 }
