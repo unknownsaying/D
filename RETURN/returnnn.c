@@ -2,7 +2,7 @@
 void main(){
     char w;
     double asin , acos;
-        float t3, t4;
+    float t3, t4;
 }
 struct rect t3t4(){
     struct rect t3();
