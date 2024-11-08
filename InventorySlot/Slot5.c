@@ -1,3 +1,4 @@
+#include <stdio.h>
 void Slot(){
     int x1,y1,z1,t1;
     do  (x1 / y1 / z1) % t1
