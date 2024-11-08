@@ -1,7 +1,4 @@
-#include "../Header/ijk.h"
-#include "../Header/opq.h"
-#include "../Header/lmn.h"
-#include "../InventorySlot/InventorySlot84.c"
+#include "../InventorySlot/Slots7.c"
 #include "../tt/tt.c"
 #define tijk [t4][i][j][k]
 #define topq [t5][o][p][q]
