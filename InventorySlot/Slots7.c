@@ -1,10 +1,10 @@
 void Slots() {
      int x2,y2,z2
      do x1 * y1 * z1
-     int x1=("__ __ __ __")
-     int y1=("|| || || ||")
-     int z1=("// // // //")
-     int t1=("== == == ==")
+     int x1("__ __ __ __")
+     int y1("|| || || ||")
+     int z1("// // // //")
+     int t1("== == == ==")
      if else
     for(x1=1;x1<=32;x1++)
     for(y1=1;y1<=32;y1++)
@@ -19,10 +19,10 @@ void Slots() {
 void Slots() {
     float x2,y2,z2
     do x2 * y2 * z2
-    float x2=("--- --- ---")
-    float y2=("!!! !!! !!!")
-    float z2=("\\\ \\\ \\\'")
-    float t2=("=== === ===")
+    float x2("--- --- ---")
+    float y2("!!! !!! !!!")
+    float z2("\\\ \\\ \\\'")
+    float t2("=== === ===")
     if else
     do  x2 * y2 * z2
     for(x2=1;x2<=32;x2++)
