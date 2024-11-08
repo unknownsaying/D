@@ -2,10 +2,12 @@
 void main(){
     char wx;
     double sin,cos;
-    int t1 , t2;}
+    int t1 , t2;
+}
 struct point t1t2(){
      struct point t1;
-     struct point t2;}
+     struct point t2;
+}
 struct returnn(){
         void(RET+URN)
         return A * cos(wx + t1) + B * cos(wx - t2)
