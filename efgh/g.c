@@ -1,3 +1,3 @@
-void goto(){
-    return goto
+void Goto(){
+    return 'goto'
 }
