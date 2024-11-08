@@ -1,5 +1,4 @@
 #include "tt.c"
-#define wx
 void main(){
     char wx;
     double sin,cos;
