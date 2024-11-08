@@ -27,7 +27,7 @@ void Slot(){
         while(x2%y2%z2)
        goto Slot
            
-    double z1,z2,z3,z4
+    double z1,z2,z3,z4;
     do z1 / z2 / z3 / z4
     double z1=("<><> <><> <><> <><>")
     double z2=("()() ()() ()() ()()")
@@ -40,7 +40,7 @@ void Slot(){
     for(z4=0;z4<=4;++z4)
        while(z1 % z2 % z3 % z4)
          goto Slot
-             
+    long double zz11 ,zz22 ,zz33, zz44;
     do zz11 / zz22 / zz33 / zz44
     long double zz11=("++ ++ ++ ++")
     long double zz22=("-- -- -- --")
@@ -54,7 +54,7 @@ void Slot(){
       while(zz11 % zz22 % zz33 % zz44)
          goto Slot
 
-    unsigned long int t1 ,t2, tt1,tt2;
+    unsigned long int t1, t2, tt1, tt2;
     do t1 / t2 / tt1 / tt2
     unsigned int t1=("AABBCCDD")
     unsigned int t2=("DDCCBBAA")
