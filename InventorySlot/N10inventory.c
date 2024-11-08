@@ -1,9 +1,9 @@
 #include "../tt/tt.c"
 #include "../crak"
 void N(ijk){
-signed long int t1t2 = t1 * t2
-signed long int t3t4 = t3 * t4
-signed long int t6t7 = t6 * t7
+signed int t1t2 = t1 * t2
+signed int t3t4 = t3 * t4
+signed int t6t7 = t6 * t7
 for (int i = 0; i < t1t2; ++i) {
 }
 for (int j = 0; j > t3t4; j--){
