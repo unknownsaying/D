@@ -2,6 +2,7 @@
 #include "para.c"
 #include "InventorySlot5.c"
 #include "InventorySlots7.c"
+#include "N01inventory.c"
 #include "abcdefg.c"
 #define m1 1
 #define m2 2
@@ -87,7 +88,7 @@ void e(){}
             "|_|_|_| |_||_||_| |_||_|_|"
    void tt(){
          int(ijk)->float(lmn)->double(opq)<->long double R(rst(rust(rstt)))->
-         signed long int(abcdefg)->unsiged long long int
+         signed long int(abcdefg)->unsiged long long int(N01inventory)
          }
    void math(){
         sin(i)->cos(j)->asin(l)->acos(m)->sh(o)->ch(p)->tan(k)->atan(n)->atanh(q)
