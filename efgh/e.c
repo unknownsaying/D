@@ -1,7 +1,7 @@
 #include "point.c"
 #include "para.c"
-#include "InventorySlot84.c"
-#include "InventorySlots369.c"
+#include "InventorySlot5.c"
+#include "InventorySlots7.c"
 #include "abcdefg.c"
 #define m1 1
 #define m2 2
