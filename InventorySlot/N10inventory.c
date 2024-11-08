@@ -1,4 +1,5 @@
 #include "../tt/tt.c"
+#include "../crak"
 void N(ijk){
 signed long int t1t2 = t1 * t2
 signed long int t3t4 = t3 * t4
