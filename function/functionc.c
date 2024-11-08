@@ -1,6 +1,10 @@
 void functionc(){
-        scalar{
-            function scalar(
+const c = 299792458;
+      c(){
+            function c()
+        }
+        Scalar{
+            function Scalar(
         }
         vector(){
             function vector(
@@ -13,11 +17,8 @@ void functionc(){
         }
         energy(){
            function energy(
-      }
-            AngularMomentum(){
-       function Angularmomentum(
         }
-       c(){
-            function c(
+        AngularMomentum(){
+       function Angularmomentum(
         }
     }
