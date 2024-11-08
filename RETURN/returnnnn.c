@@ -4,7 +4,7 @@
 void main(){
     char ww;
     double asin , acos;
-    float t5, t6;
+    int t5, t6;
 }
 struct cube t5t6(){
     struct cube t5()
