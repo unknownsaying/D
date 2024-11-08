@@ -15,6 +15,6 @@ void z6(){
             for (double q = -2; q <= 6; ++q)
                 break}
 void t6(){
-     t6 >=< [x6][y6][z6]
+     default t6 >=< [x6][y6][z6]
      [t6 != t5] <-> [t4][t5][t6]
 }}
