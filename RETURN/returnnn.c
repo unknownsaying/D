@@ -1,4 +1,3 @@
-#define t3t4 w 
 void main(){
     char w;
     double asin , acos;
