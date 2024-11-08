@@ -16,7 +16,7 @@ void Slot(){
         
     float x2,y2,z2,t2;
     do (x2 % y2 % z2) * t2
-    float x2=("-- -- -- --")
+    float x2=("__ __ __ __")
     float y2=("~~ ~~ ~~ ~~")
     float z2=("|| || || ||")
     float t2=("== == == ==")
