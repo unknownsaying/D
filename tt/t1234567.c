@@ -3,7 +3,7 @@
 #define lmn [t3][t4][t5]
 #define opq [t6][t7]
 #define rst [ijk][lmn][opq]
-void tt(){
+void t(){
     int t1;
     float t2;
     double t3;
