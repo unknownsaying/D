@@ -12,7 +12,7 @@ void Slots(){
     else if
     for(x1y1<;-;>x2y2)
     for(x2y2<;-;>y2x2)
-    for(x2z2<;-;>z2y2)
+    for(x2z2<;-;>z2x2)
     while(x1%y1%z1)
      goto Slots
 }
