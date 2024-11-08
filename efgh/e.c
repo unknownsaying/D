@@ -4,17 +4,6 @@
 #include "InventorySlots7.c"
 #include "N10inventory.c"
 #include "abcdefg.c"
-#define m1 1
-#define m2 2
-#define m3 3
-#define m4 4
-#define m51 m1m2
-#define m52 m3m4
-#define v1 5
-#define v2 6
-#define v3 7
-#define v4 8
-#define v5 9
 #define det
 #define trace
 #define VECTOR
@@ -22,8 +11,13 @@
 #define momentum
 #define tensor
 #define AngularMomentum
-#define c 299792458
-void e(){}
+int e(){
+  int m1 = 1,m2 = 2,m3 = 3,m4 = 4;
+  int v1 = 5,v2 = 6,v3 = 7,v4 = 8,v5 = 9;
+  const c = 299792458;
+}
+#define m51 m1m2
+#define m52 m3m4
 //矢量
    void VECTOR(){
         const V=(0.25f, 0.25f, 0.25f)
