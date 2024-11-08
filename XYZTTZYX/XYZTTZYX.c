@@ -1,6 +1,6 @@
-#ifdef xyzttzyx
 #include "tt.c"
-void xyzttzxy(){
+#ifdef xyzttzyx
+void xyzttzyx(){
     void xyzt(){
          x1y1z1t1<->x2y2z2t2<->x3y3z3t3
          return t7
