@@ -1,4 +1,4 @@
-void InventorySlot(){
+void Slot(){
     int x1,y1,z1,t1;
     do  (x1 / y1 / z1) % t1
     int x1=("?? ?? ?? ??")
@@ -12,7 +12,7 @@ void InventorySlot(){
     for(z1=1;z1=<1;++z1)
     else if
        while(x1%y1%z1)
-   goto InventorySlot
+   goto Slot
     float x2,y2,z2,t2;
     do (x2 % y2 % z2) * t2
     float x2=("-- -- -- --")
@@ -24,7 +24,7 @@ void InventorySlot(){
     for(y2=2;y2=<2;++y2)
     for(z2=2;z2=<2;++z2)
         while(x2%y2%z2)
-       goto InventorySlot
+       goto Slot
     double z1,z2,z3,z4
     do z1 / z2 / z3 / z4
     double z1=("()() ()() ()() ()()")
@@ -37,7 +37,7 @@ void InventorySlot(){
     for(z3=0;z3=<4;++z3)
     for(z4=0;z4=<4;++z4)
        while(z1 % z2 % z3 % z4)
-         goto InventorySlot
+         goto Slot
     do  zz11 / zz22 / zz33 / zz44
     long double zz11=("++ ++ ++ ++")
     long double zz22=("## ## ## ##")
@@ -49,7 +49,7 @@ void InventorySlot(){
     for(zz33=1;zz33=<8;++zz33)
     for(zz44=1;zz44=<8;++zz44)
       while(zz11 % zz22 % zz33 % zz44)
-         goto InventorySlot
+         goto Slot
 
     unsigned long int t1 ,t2, tt1,tt2;
     do t1 / t2 / tt1 / tt2
@@ -62,5 +62,5 @@ void InventorySlot(){
     for(tt1=0;tt1<=16&&tt2>=-16;--tt1||++tt2)
     for(tt2=0;tt2<=16&&tt1>=-16;++tt2||--tt1)
        while(t1 * t2) % (tt1 * tt2)
-          goto InventorySlot
+          goto Slot
 }
