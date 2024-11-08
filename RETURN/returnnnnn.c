@@ -1,7 +1,7 @@
 #include "../Header/xyzt.h"
 #include "../Header/tzyx.h"
-#define t5 xyz
-#define t6 xyzt
+#define t7 xyz
+#define t8 xyzt
 #define www
 void main()
 {
