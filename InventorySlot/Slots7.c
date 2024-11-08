@@ -67,10 +67,10 @@ void Slots() {
 void Slots() {
     unsigned long int tt1, tt2, tt1, tt2
     do t1 * t2 * tt1 * tt2
-    unsigned  int tt1 = ("AABBCCDD")
-    unsigned  int tt2 = ("DDCCBBAA")
-    unsigned  int tt1 = ("ABABCCDD")
-    unsigned  int tt2 = ("ABCDDCBA")
+    unsigned int tt1 = ("AABBCCDD")
+    unsigned int tt2 = ("DDCCBBAA")
+    unsigned int tt1 = ("ABABCCDD")
+    unsigned int tt2 = ("ABCDDCBA")
     for (t1 = 0; t1 <= 32; t1++)
     for (t2 = 0; t2 <= 32; t2--)
     for (tt1 = 0; tt1 <= 32; tt1-- || tt2++)
