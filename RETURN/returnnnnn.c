@@ -9,9 +9,6 @@ void main()
     double sh, ch;
     float xyz, xyzt;
 }
-struct cube(){
-    struct cube xyz;
-    struct cube xyzt;}
     void xyz()t(){
     void x2y2z2 / sh(www - xyz) + x2y2z2 / ch(www - xyzt)
     void x1y1z1 / ch(www + xyzt) - x1y1z1 / ch(www + xyz)
