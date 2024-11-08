@@ -51,20 +51,6 @@ void Slots() {
         goto Slots
 }
 void Slots() {
-    long double zz11 , zz22 , zz33 , zz44
-    do  zz11 / zz22 / zz33 / zz44
-    long double zz11=("++ ++ ++ ++")
-    long double zz22=("## ## ## ##")
-    long double zz33=("== == == ==")
-    long double zz44=("\\ || || //")
-    for(zz11=0;zz11<=32;zz11++)
-    for(zz22=0;zz22<=32;zz22++)
-    for(zz33=0;zz33<=32;zz33++)
-    for(zz44=0;zz44<=32;zz44++)
-        while(zz11 % zz22 % zz33 % zz44)
-        goto Slots;
-}
-void Slots() {
     unsigned long int tt1, tt2, tt1, tt2
     do t1 * t2 * tt1 * tt2
     unsigned int t11 = ("AABBCCDD")
