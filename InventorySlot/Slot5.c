@@ -40,6 +40,7 @@ void Slot(){
     for(z4=0;z4<=4;++z4)
        while(z1 % z2 % z3 % z4)
          goto Slot
+             
     long double zz11 ,zz22 ,zz33, zz44;
     do zz11 / zz22 / zz33 / zz44
     long double zz11=("++ ++ ++ ++")
