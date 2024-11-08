@@ -42,15 +42,15 @@ void Slot(){
          goto Slot
              
     do zz11 / zz22 / zz33 / zz44
-    long double zz1=("++ ++ ++ ++")
-    long double zz2=("-- -- -- --")
-    long double zz3=("** ** ** **")
-    long double zz4=("%% %% %% %%")
-    do zz1 * zz2 * zz3 * zz4
-    for(zz1=1;zz1<=8;++z11)
-    for(zz2=1;zz2<=8;++z22)
-    for(zz3=1;zz3<=8;++z33)
-    for(zz4=1;zz4<=8;++z44)
+    long double zz11=("++ ++ ++ ++")
+    long double zz22=("-- -- -- --")
+    long double zz33=("** ** ** **")
+    long double zz44=("%% %% %% %%")
+    do zz11 * zz22 * zz33 * zz44
+    for(zz11=1;zz11<=8;++zz11)
+    for(zz22=1;zz22<=8;++zz22)
+    for(zz33=1;zz33<=8;++zz33)
+    for(zz44=1;zz44<=8;++zz44)
       while(zz11 % zz22 % zz33 % zz44)
          goto Slot
 
