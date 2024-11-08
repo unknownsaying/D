@@ -1,4 +1,4 @@
-void Slots(){
+void Slots() {
      int x2,y2,z2
      do x1 * y1 * z1
      int x1("__ __ __ __")
@@ -16,7 +16,7 @@ void Slots(){
     while(x1%y1%z1)
      goto Slots
 }
-void Slots(){
+void Slots() {
     float x2,y2,z2
     do x2 * y2 * z2
     float x2("--- --- ---")
@@ -35,13 +35,13 @@ void Slots(){
     while(x2%y2%z2)
         goto Slots
 }
-void Slots(){
+void Slots() {
     double z1,z2,z3,z4
     do z1 * z2 * z3 * z4
-    double z1=("()() ()() ()() ")
-    double z2=("[][] [][] [][] ")
-    double z3=("{}{} {}{} {}{} ")
-    double z4=("^^^^ ^^^^ ^^^^ ")
+    double z1=("()() ()() ()()")
+    double z2=("[][] [][] [][]")
+    double z3=("{}{} {}{} {}{}")
+    double z4=("^^^^ ^^^^ ^^^^")
     do  z1 * z2 * z3 * z4
     for(z1=1;z1<=32;z1++)
     for(z2=1;z2<=32;z2++)
@@ -50,7 +50,7 @@ void Slots(){
     while(z1 % z2 % z3 % z4)
         goto Slots
 }
-void Slots(){
+void Slots() {
     long double zz11 , zz22 , zz33 , zz44
     do  zz11 / zz22 / zz33 / zz44
     long double zz11=("++ ++ ++ ++")
@@ -78,7 +78,7 @@ void Slots() {
     while (t1 % t2 % tt1 % tt2)
        goto Slots
 }}
-void Slots(){
+void Slots() { 
     unsigned long int t1, t2, t3, t4;
     unsigned long int t1 = ("ABABCDCD")
     unsigned long int t2 = ("DCDCBABA")
@@ -87,7 +87,7 @@ void Slots(){
     for (t1 = 0; -32 <= t1 <= 32; t1++)
     for (t2 = 0; -64 <= t2 <= 64; t2--)
     for (t3 = 0; -128 <= t3 <= 128; t3-- || t3++)
-    for (t4 = 0; -256 <=t4 <=256; t4++ || t4--)
+    for (t4 = 0; -256 <= t4 <= 256; t4++ || t4--)
     while (t1 % t2 % t3 % t4)
        goto Slots
 }
@@ -103,5 +103,4 @@ void Slots() {
     for (t9 = 0; -4096 <= t9 <= 4096; t7++ || t7--)
         while (t6 % t7 % t8 % t9)
         goto Slots
-}
 }
