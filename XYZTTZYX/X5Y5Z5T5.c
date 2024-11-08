@@ -17,6 +17,7 @@ void z5(){
               goto [0,0,0]
        break
 void t5(){
-    int t5 >=< [x5][y5][z5]
-    [t5 != t6] <-> [t3][t4][t5]
-}}
+    default t5 >=< [x5][y5][z5]
+    [t5 != t6] <-> [t3][t4][t5]       
+          }
+}
