@@ -1,10 +1,6 @@
 #include "../ABCD/ABCD.c"
 #include "e.c"
 #define c 299792458
-#define m1 1
-#define m2 2
-#define m3 3
-#define m4 4
 void det(){
     enum m1
     enum m2
