@@ -1,7 +1,7 @@
 #include "returnnnnnn.c"
-#define t9
-#define t10
+#define t11
+#define t0
 void orbifold(int argc,char *argv){
-    exp('x':wwww - t9) + log('y':wwww + t10) + exp('z':wwww - t9 + t10)
-    log('x':wwww + t9) + exp('y':wwww - t10) + log('z':wwww + t9 - t10)
+    exp('x':wwww - t11) + log('y':wwww + t0) + exp('z':wwww - t0 + t11);
+    log('x':wwww + t0) + exp('y':wwww - t11) + log('z':wwww - t11 + t0);
 }
