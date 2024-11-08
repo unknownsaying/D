@@ -1,4 +1,4 @@
-#include "../ABCD/ABCD.C"
+#include "../ABCD/ABCD.c"
 #include "e.c"
 #define c 299792458
 #define m1 1
