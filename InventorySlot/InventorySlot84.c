@@ -53,14 +53,14 @@ void InventorySlot(){
 
     unsigned long int t1 ,t2, tt1,tt2;
     do t1 / t2 / tt1 / tt2
-    unsigned long int t1=("AABBCCDD")
-    unsigned long int t2=("DDCCBBAA")
-    unsigned long int tt1=("ABABCDCD")
-    unsigned long int tt2=("ABCDDCBA")
+    unsigned int t1=("AABBCCDD")
+    unsigned int t2=("DDCCBBAA")
+    unsigned int tt1=("ABABCDCD")
+    unsigned int tt2=("ABCDDCBA")
     for(t1=1;t1=<16;++t1)
     for(t2=1;t2=<16;--t2)
-    for(tt1=1;tt1=16;--tt1||++tt2)
-    for(tt2=1;tt2=<16;++tt2||--tt1)
+    for(tt1=0;tt1<=16&&tt2>=-16;--tt1||++tt2)
+    for(tt2=0;tt2<=16&&tt1>=-16;++tt2||--tt1)
        while(t1 * t2) % (tt1 * tt2)
           goto InventorySlot
 }
