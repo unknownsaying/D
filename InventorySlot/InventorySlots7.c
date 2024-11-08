@@ -1,4 +1,4 @@
-void InventorySlots(){
+void Slots(){
      int x2,y2,z2
      do x1 * y1 * z1
      int x1("__ __ __ __")
@@ -14,9 +14,9 @@ void InventorySlots(){
     for(x2y2<;-;>y2x2)
     for(x2z2<;-;>z2y2)
     while(x1%y1%z1)
-     goto InventorySlots
+     goto Slots
 }
-void InventorySlots(){
+void Slots(){
     float x2,y2,z2
     do x2 * y2 * z2
     float x2("--- --- ---")
@@ -33,9 +33,9 @@ void InventorySlots(){
         for(y2z2<;-;>y2z2)
         for(y2z2<;-;>z2y2)
     while(x2%y2%z2)
-        goto InventorySlots
+        goto Slots
 }
-void InventorySlots(){
+void Slots(){
     double z1,z2,z3,z4
     do z1 * z2 * z3 * z4
     double z1=("()() ()() ()() ")
@@ -48,9 +48,9 @@ void InventorySlots(){
     for(z3=1;z3<=32;z3++)
     for(z4=1;z4<=32;z4++)
     while(z1 % z2 % z3 % z4)
-        goto InventorySlots
+        goto Slots
 }
-void InventorySlots(){
+void Slots(){
     long double zz11 , zz22 , zz33 , zz44
     do  zz11 / zz22 / zz33 / zz44
     long double zz11=("++ ++ ++ ++")
@@ -62,9 +62,9 @@ void InventorySlots(){
     for(zz33=0;zz33<=32;zz33++)
     for(zz44=0;zz44<=32;zz44++)
         while(zz11 % zz22 % zz33 % zz44)
-        goto InventorySlots;
+        goto Slots;
 }
-void InventorySlots() {
+void Slots() {
     unsigned long int tt1, tt2, tt1, tt2
     do t1 * t2 * tt1 * tt2
     unsigned  int tt1 = ("AABBCCDD")
@@ -76,9 +76,9 @@ void InventorySlots() {
     for (tt1 = 0; tt1 <= 32; tt1-- || tt2++)
     for (tt2 = 0; tt2 <= 32; tt2++ || tt1--)
     while (t1 % t2 % tt1 % tt2)
-       goto InventorySlots
+       goto Slots
 }}
-void InventorySlots(){
+void Slots(){
     unsigned long int t1, t2, t3, t4;
     unsigned long int t1 = ("ABABCDCD")
     unsigned long int t2 = ("DCDCBABA")
@@ -89,9 +89,9 @@ void InventorySlots(){
     for (t3 = 0; -128 <= t3 <= 128; t3-- || t3++)
     for (t4 = 0; -256 <=t4 <=256; t4++ || t4--)
     while (t1 % t2 % t3 % t4)
-       goto InventorySlots
+       goto Slots
 }
-void InventorySlots() {
+void Slots() {
     signed long long int t6, t7, t8, t9;
     signed long long int t6 = ("ABCD||DCBA")
     signed long long int t7 = ("ABAB\\//CDCD")
@@ -102,6 +102,6 @@ void InventorySlots() {
     for (t8 = 0; -2048 <= t8 <= 2048; t6-- || t6++)
     for (t9 = 0; -4096 <= t9 <= 4096; t7++ || t7--)
         while (t6 % t7 % t8 % t9)
-        goto InventorySlots
+        goto Slots
 }
 }
