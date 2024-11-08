@@ -11,7 +11,7 @@ int t5{
    int1024_t
    ch(www - p)
    int2048_t
-   h(www + q)
+   sh(www + q)
    int4096_t
    ch(www - o)
   }}
