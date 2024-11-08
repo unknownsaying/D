@@ -2,7 +2,7 @@
 #include "para.c"
 #include "InventorySlot5.c"
 #include "InventorySlots7.c"
-#include "N01inventory.c"
+#include "N10inventory.c"
 #include "abcdefg.c"
 #define m1 1
 #define m2 2
