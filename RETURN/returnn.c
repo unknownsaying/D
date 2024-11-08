@@ -1,6 +1,4 @@
 #include "tt.c"
-#define t1
-#define t2
 #define wx
 void main(){
     char wx;
