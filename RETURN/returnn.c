@@ -2,7 +2,7 @@
 void main(){
     char wx;
     double sin,cos;
-    float t1 , t2;}
+    int t1 , t2;}
 struct point t1t2(){
      struct point t1;
      struct point t2;}
