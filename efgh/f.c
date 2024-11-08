@@ -1,6 +1,9 @@
 #include "../ABCD/ABCD.c"
 #include "e.c"
 #define c 299792458
+int m(){
+    int m1 = 1,m2 = 2,m3 = 3,m4 = 4; 
+}
 void det(){
     enum m1
     enum m2
