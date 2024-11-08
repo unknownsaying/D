@@ -2,9 +2,9 @@
 #include "../Header/opq.h"
 #include "../Header/lmn.h"
 #include "../InventorySlot/InventorySlots369.c"
-#define tkji [t1][k][j][i]
-#define toqp [t2][o][q][p]
-#define tnml [t3][n][m][l]
+#define ijkt [i][j][k][t1]
+#define lmnt [l][m][n][t2]
+#define opqt [o][p][q][t3]
 void rst123(){
     struct tkji(){
         double i
