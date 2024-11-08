@@ -1,3 +1,4 @@
+#include <stdio.h>
 void Slots() {
      int x2,y2,z2
      do x1 * y1 * z1
