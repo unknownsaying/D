@@ -1,9 +1,3 @@
-#include "point.c"
-#include "para.c"
-#include "Slot5.c"
-#include "Slots6.c"
-#include "N10inventory.c"
-#include "abcdefg.c"
 #define det
 #define trace
 #define VECTOR
