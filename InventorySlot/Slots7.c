@@ -77,7 +77,7 @@ void Slots() {
     for (tt2 = 0; tt2 <= 32; tt2++ || tt1--)
     while (t1 % t2 % tt1 % tt2)
        goto Slots
-}}
+}
 void Slots() { 
     unsigned long int t1, t2, t3, t4;
     unsigned long int t1 = ("ABABCDCD")
