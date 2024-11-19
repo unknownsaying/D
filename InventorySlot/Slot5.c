@@ -43,7 +43,6 @@ void Slot(){
          goto Slot
              
     long double zz11 ,zz22 ,zz33, zz44;
-    do zz11 / zz22 / zz33 / zz44
     long double zz11=("++ ++ ++ ++")
     long double zz22=("-- -- -- --")
     long double zz33=("** ** ** **")
