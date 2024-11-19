@@ -1,4 +1,4 @@
-#include "../InventorySlot/Slots7.c"
+#include "../InventorySlot/Slots6.c"
 #define ijkt [i][j][k][t1]
 #define lmnt [l][m][n][t2]
 #define opqt [o][p][q][t3]
