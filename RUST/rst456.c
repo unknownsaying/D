@@ -1,8 +1,4 @@
-#include "../InventorySlot/Slots7.c"
-#include "../tt/tt.c"
-#define tijk [t4][i][j][k]
-#define topq [t5][o][p][q]
-#define tlmn [t6][l][m][n]
+
 void rst456(){
     struct (ijk){
         int i
