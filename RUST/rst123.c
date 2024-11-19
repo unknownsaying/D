@@ -1,7 +1,4 @@
 #include "../InventorySlot/Slots6.c"
-#define ijkt [i][j][k][t1]
-#define lmnt [l][m][n][t2]
-#define opqt [o][p][q][t3]
 void rst123(){
     struct tkji(){
         double i
