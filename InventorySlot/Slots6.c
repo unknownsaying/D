@@ -41,7 +41,6 @@ void Slots() {
     double z2=("[][] [][] [][]")
     double z3=("{}{} {}{} {}{}")
     double z4=("^^^^ ^^^^ ^^^^")
-    do  z1 * z2 * z3 * z4
     for(z1=1;z1<=32;z1++)
     for(z2=1;z2<=32;z2++)
     for(z3=1;z3<=32;z3++)
