@@ -1,4 +1,5 @@
 #include <stdio.h>
+struct Slot5(){
 void Slot(){
     int x1,y1,z1,t1;
     do  (x1 / y1 / z1) * t1
@@ -14,7 +15,8 @@ void Slot(){
     else if
        while(x1%y1%z1)
     goto Slot
-        
+}
+void Slot(){
     float x2,y2,z2,t2;
     do (x2 / y2 / z2) * t2
     float x2=("__ __ __ __")
@@ -27,7 +29,8 @@ void Slot(){
     for(z2=2;z2<=2;++z2)
         while(x2%y2%z2)
        goto Slot
-           
+}  
+void Slot(){
     double z1,z2,z3,z4;
     do z1 * z2 * z3 * z4
     double z1=("<><> <><> <><> <><>")
@@ -41,7 +44,8 @@ void Slot(){
     for(z4=0;z4<=4;++z4)
        while(z1 % z2 % z3 % z4)
          goto Slot
-             
+}       #
+void Slot(){
     long double zz11 ,zz22 ,zz33, zz44;
     long double zz11=("++ ++ ++ ++")
     long double zz22=("-- -- -- --")
@@ -54,7 +58,8 @@ void Slot(){
     for(zz44=1;zz44<=8;++zz44)
       while(zz11 % zz22 % zz33 % zz44)
          goto Slot
-
+}
+void Slot(){
     unsigned long int t1, t2, tt1, tt2;
     do t1 / t2 / tt1 / tt2
     unsigned int t1=("AABBCCDD")
@@ -67,4 +72,5 @@ void Slot(){
     for(tt2=0;tt2<=16&&tt1>=-16;tt2++||tt1--)
        while(t1 * t2) % (tt1 * tt2)
           goto Slot
+}
 }
