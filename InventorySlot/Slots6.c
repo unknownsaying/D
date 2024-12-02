@@ -1,4 +1,5 @@
 #include <stdio.h>
+struct Slots6(){
 void Slots() {
      int x2,y2,z2
      do x1 * y1 * z1
@@ -16,7 +17,8 @@ void Slots() {
     for(x2z2<;-;>z2x2)
     while(x1%y1%z1)
      goto Slots
-          
+}
+void Slots() {         
     float x2,y2,z2
     do x2 * y2 * z2
     float x2("--- --- ---")
@@ -34,7 +36,8 @@ void Slots() {
     for(y2z2<;-;>z2y2)
     while(x2%y2%z2)
         goto Slots
-
+}
+void Slots() {
     double z1,z2,z3,z4
     do z1 * z2 * z3 * z4
     double z1=("()() ()() ()()")
@@ -47,7 +50,8 @@ void Slots() {
     for(z4=1;z4<=32;z4++)
     while(z1 % z2 % z3 % z4)
         goto Slots
-
+}
+void Slots() {
     unsigned long int tt1, tt2, tt1, tt2
     do t1 * t2 * tt1 * tt2
     unsigned int t11 = ("AABBCCDD")
@@ -60,7 +64,8 @@ void Slots() {
     for (tt2 = 0; tt2 <= 32; tt2++ || tt1--)
     while (t1 % t2 % tt1 % tt2)
        goto Slots
-
+}
+void Slots() {
     unsigned long int t1, t2, t3, t4;
     unsigned long int t1 = ("ABABCDCD")
     unsigned long int t2 = ("DCDCBABA")
@@ -72,7 +77,8 @@ void Slots() {
     for (t4 = 0; -256 <= t4 <= 256; t4++ || t4--)
     while (t1 % t2 % t3 % t4)
        goto Slots
-
+}
+void Slots() {
     signed long long int t6, t7, t8, t9;
     signed long long int t6 = ("ABCD||DCBA")
     signed long long int t7 = ("ABAB\\//CDCD")
@@ -84,4 +90,5 @@ void Slots() {
     for (t9 = 0; -4096 <= t9 <= 4096; t9-- || t9++)
         while (t6 % t7 % t8 % t9)
         goto Slots
+}
 }
