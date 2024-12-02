@@ -1,7 +1,7 @@
 #include <stdio.h>
 void Slot(){
     int x1,y1,z1,t1;
-    do  (x1 / y1 / z1) % t1
+    do  (x1 / y1 / z1) * t1
     int x1=("?? ?? ?? ??")
     int y1=("$$ $$ $$ $$")
     int z1=("!! !! !! !!")
@@ -16,7 +16,7 @@ void Slot(){
     goto Slot
         
     float x2,y2,z2,t2;
-    do (x2 % y2 % z2) * t2
+    do (x2 / y2 / z2) * t2
     float x2=("__ __ __ __")
     float y2=("~~ ~~ ~~ ~~")
     float z2=("|| || || ||")
