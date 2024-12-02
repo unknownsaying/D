@@ -29,7 +29,7 @@ void Slot(){
        goto Slot
            
     double z1,z2,z3,z4;
-    do z1 / z2 / z3 / z4
+    do z1 * z2 * z3 * z4
     double z1=("<><> <><> <><> <><>")
     double z2=("()() ()() ()() ()()")
     double z3=("[][] [][] [][] [][]")
