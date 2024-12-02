@@ -1,4 +1,3 @@
-#include <stdio.h>
 struct Slots6(){
 void Slots() {
      int x2,y2,z2
