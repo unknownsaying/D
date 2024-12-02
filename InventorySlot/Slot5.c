@@ -1,4 +1,4 @@
-#include <stdio.h>
+
 struct Slot5(){
 void Slot(){
     int x1,y1,z1,t1;
