@@ -64,7 +64,7 @@ int e(){
         }
     }
     void InventorySlot84() {
-        "|_|_|_|_| |_|_||_|_| |_||_|_|_|"
+        "|_|_|_|_| |_|_|_|_| |_|_|_|_|"
       
     void BigInt(){
           int2_t->int4_t->int8_t->int16_t
@@ -73,7 +73,7 @@ int e(){
          }
 }
    void InventorySlots369(){
-            "|_|_|_| |_||_||_| |_||_|_|"
+            "|_|_|_| |_|_||_| |_|_|_|"
    void tt(){
          int(ijk)->float(lmn)->double(opq)<->long double R(rst(rust(rstt)))->
          signed long int(abcdefg)->unsiged long long int(N01inventory)
