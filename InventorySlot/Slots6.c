@@ -65,11 +65,11 @@ void Slots() {
        goto Slots
 }
 void Slots() {
-    unsigned long int t1, t2, t3, t4;
-    unsigned long int t1 = ("ABABCDCD")
-    unsigned long int t2 = ("DCDCBABA")
-    unsigned long int t3 = ("efgh || hgfe")
-    unsigned long int t4 = ("ABCD || DCBA")
+    signed long int t1, t2, t3, t4;
+    signed long int t1 = ("ABABCDCD")
+    signed long int t2 = ("DCDCBABA")
+    signed long int t3 = ("efgh || hgfe")
+    signed long int t4 = ("ABCD || DCBA")
     for (t1 = 0; -32 <= t1 <= 32; t1++ && t1--)
     for (t2 = 0; -64 <= t2 <= 64; t2-- && t2++)
     for (t3 = 0; -128 <= t3 <= 128; t3-- || t3++)
@@ -78,11 +78,11 @@ void Slots() {
        goto Slots
 }
 void Slots() {
-    signed long int t6, t7, t8, t9;
-    signed long int t6 = ("ABCD||DCBA")
-    signed long int t7 = ("ABAB\\//CDCD")
-    signed long int t8 = ("AB|/AB/|CD|/DC")
-    signed long int t9 = ("CD&&DC\\//AB&&BA")
+    unsigned long int t6, t7, t8, t9;
+    unsigned long int t6 = ("ABCD||DCBA")
+    unsigned long int t7 = ("ABAB\\//CDCD")
+    unsigned long int t8 = ("AB|/AB/|CD|/DC")
+    unsigned long int t9 = ("CD&&DC\\//AB&&BA")
     for (t6 = 0; -512 <= t6 <= 512; t6++ && t6--)
     for (t7 = 0; -1024 <= t7 <= 1024; t7-- && t7++)
     for (t8 = 0; -2048 <= t8 <= 2048; t8++ || t8--)
