@@ -1,4 +1,4 @@
-#include "../tt/tt.c"
+
 #include "../crak"
 void N(ijk){
 signed int t1t2 = t1 * t2
