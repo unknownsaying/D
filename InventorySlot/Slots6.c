@@ -78,11 +78,11 @@ void Slots() {
        goto Slots
 }
 void Slots() {
-    signed long long int t6, t7, t8, t9;
-    signed long long int t6 = ("ABCD||DCBA")
-    signed long long int t7 = ("ABAB\\//CDCD")
-    signed long long int t8 = ("AB|/AB/|CD|/DC")
-    signed long long int t9 = ("CD&&DC\\//AB&&BA")
+    signed long int t6, t7, t8, t9;
+    signed long int t6 = ("ABCD||DCBA")
+    signed long int t7 = ("ABAB\\//CDCD")
+    signed long int t8 = ("AB|/AB/|CD|/DC")
+    signed long int t9 = ("CD&&DC\\//AB&&BA")
     for (t6 = 0; -512 <= t6 <= 512; t6++ && t6--)
     for (t7 = 0; -1024 <= t7 <= 1024; t7-- && t7++)
     for (t8 = 0; -2048 <= t8 <= 2048; t8++ || t8--)
