@@ -73,7 +73,7 @@ int e(){
          }
 }
    void InventorySlots369(){
-            "|_|_|_| |_|_||_| |_|_|_|"
+            "|_|_|_| |_|_|_| |_|_|_|"
    void tt(){
          int(ijk)->float(lmn)->double(opq)<->long double R(rst(rust(rstt)))->
          signed long int(abcdefg)->unsiged long long int(N01inventory)
