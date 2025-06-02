@@ -11,7 +11,7 @@ void main()
 }
     void xyz()t(){
     void x2y2z2 / sh(www - xyz) + x2y2z2 / ch(www - xyzt)
-    void x1y1z1 / ch(www + xyzt) - x1y1z1 / ch(www + xyz)
+    void x1y1z1 / sh(www + xyzt) - x1y1z1 / ch(www + xyz)
 {
     void xyz()
     {
